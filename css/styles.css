@@ -126,7 +126,7 @@
   }
 
 icon {
-    background: (src="img/profile2.png");
+    background: src="img/profile2.png";
     height: 20px;
     width: 20px;
     display: block;
