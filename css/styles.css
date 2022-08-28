@@ -23,12 +23,13 @@
     /*     border-radius: 50%;
    margin-left: auto;
     margin-right: auto;
-    text-align: left;  */
+    text-align: left;
+         display: block;
+*/
     width: 90%;
     height: 90%;
    height: 33px;
     width: 33px; 
-   display: block;
   }
 
   li{
